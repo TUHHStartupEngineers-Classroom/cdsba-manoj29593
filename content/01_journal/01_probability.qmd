@@ -12,7 +12,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 # Text Formatting
 
-*italics* and **bold**
+*italics and **bold**
 
 superscript^2^ / subscript~2~
 
@@ -43,11 +43,11 @@ superscript^2^ / subscript~2~
 [![Caption](../../assets/img/elephant.png)](https://quarto.org "An elephant")
 
 
-# Lists
+ Lists
 
 * unordered list
     + sub-item 1
-    + sub-item 2
+     sub-item 2
         - sub-sub-item 1
         
 *   item 2
